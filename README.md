@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Fine at WuXi
+- 🔭 I’m currently working on TS & JS
 - 🌱 I’m currently learning All
 <!--
 - 👯 I’m looking to collaborate on ...
